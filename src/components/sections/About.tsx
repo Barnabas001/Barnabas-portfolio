@@ -1,6 +1,6 @@
 import { useRef } from "react";
 import { motion, useInView, type Variants } from "framer-motion";
-import { MapPin, Coffee, Code2, Lightbulb } from "lucide-react";
+import { MapPin, Code2, Lightbulb } from "lucide-react";
 import { personalInfo } from "../../data/portfolio";
 import SectionHeader from "../ui/SectionHeader";
 import barnabas from "../../assets/barnabas.jpg";
@@ -9,7 +9,7 @@ const stats = [
   { value: "1+", label: "Years Experience" },
   { value: "10+", label: "Projects Built" },
   { value: "5+", label: "Tech Stacks" },
-  { value: "∞", label: "Cups of Coffee" },
+  { value: "100%", label: "Passion & Dedication" },
 ];
 
 const facts = [
