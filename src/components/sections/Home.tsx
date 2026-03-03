@@ -30,7 +30,7 @@ export default function Home() {
   return (
     <section
       id="home"
-      className="'relative min-h-screen flex flex-col justify-center overflow-hidden"
+      className="relative min-h-screen flex flex-col justify-center overflow-hidden"
     >
       {/* ── Background Effects ── */}
       <div className="absolute top-1/4 left-1/4 w-96 h-96 bg-cyber-blue/5 rounded-full blur-3xl pointer-events-none" />
@@ -61,7 +61,7 @@ export default function Home() {
         >
           <motion.div variants={itemVariants} className="mb-6">
             <span className="font-mono text-cyber-green text-sm tracking-widest">
-              <span className="test-cyber-muted">$</span>./hello_world.sh
+              <span className="text-cyber-muted">$</span>./hello_world.sh
             </span>
           </motion.div>
 
