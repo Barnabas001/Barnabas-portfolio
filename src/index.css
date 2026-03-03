@@ -1,10 +1,5 @@
 @import "tailwindcss";
 
-/* Import Tailwind's three layers */
-/* @tailwind base;
-@tailwind components;
-@tailwind utilities; */
-
 /* Import our futuristic fonts from Google Fonts */
 @import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600;700;900&family=Exo+2:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap");
 

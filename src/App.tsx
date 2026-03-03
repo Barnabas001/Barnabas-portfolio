@@ -1,5 +1,5 @@
 import Navbar from "./components/layout/Navbar";
-import { Home } from "lucide-react";
+import Home from "./components/sections/Home";
 
 export default function App() {
   return (
