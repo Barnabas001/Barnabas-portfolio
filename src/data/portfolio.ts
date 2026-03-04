@@ -75,4 +75,15 @@ export const experiences: Experience[] = [
     ],
     tech: ["React", "Next.js", "TypeScript"],
   },
+  {
+    company: "Freelance",
+    role: "Web Developer",
+    period: "2022 — 2023",
+    description: [
+      "Built 5+ client websites from scratch using modern web technologies",
+      "Managed full project lifecycle from requirements to deployment",
+      "Maintained ongoing client relationships and provided technical support",
+    ],
+    tech: ["HTML", "CSS", "JavaScript"],
+  },
 ];
