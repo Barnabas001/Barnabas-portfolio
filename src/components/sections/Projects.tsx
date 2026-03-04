@@ -233,7 +233,7 @@ export default function Projects() {
 
       <div className="section-container">
         <SectionHeader
-          label="03. projects"
+          label="Projects"
           title="Things I've Built"
           subtitle="A selection of projects that showcase my range and approach to problem solving."
         />
