@@ -8,6 +8,7 @@ export type Project = {
   live?: string;
   featured: boolean;
   image?: string;
+  category?: string;
 };
 
 export type Experience = {

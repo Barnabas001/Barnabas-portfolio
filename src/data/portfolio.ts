@@ -1,4 +1,3 @@
-// import { link } from "fs";
 import { type Project, type Experience, type NavItem } from "../types";
 
 export const personalInfo = {
@@ -31,6 +30,7 @@ export const projects: Project[] = [
     github: "https://github.com/Barnabas001/barnabas-homes",
     live: "https://barnabas-homes.vercel.app/",
     featured: true,
+    category: "frontend",
   },
   {
     id: "2",
@@ -42,6 +42,7 @@ export const projects: Project[] = [
     github: "https://github.com/Barnabas001/ecommerce-product-page",
     live: "https://ecommerce-product-page-lovat-nine.vercel.app/#",
     featured: true,
+    category: "frontend",
   },
   {
     id: "3",
@@ -53,6 +54,7 @@ export const projects: Project[] = [
     github: "https://github.com/Barnabas001/slingshoot-web",
     live: "https://slingshotstudios.com.ng/",
     featured: false,
+    category: "frontend",
   },
 ];
 

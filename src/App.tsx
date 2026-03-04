@@ -1,6 +1,7 @@
 import Navbar from "./components/layout/Navbar";
 import Home from "./components/sections/Home";
 import About from "./components/sections/About";
+import Skills from "./components/sections/Skills";
 
 export default function App() {
   return (
@@ -8,12 +9,8 @@ export default function App() {
       <Navbar />
       <Home />
       <About />
+      <Skills />
 
-      <div id="skills" className="h-screen flex items-center justify-center">
-        <p className="font-display text-cyber-muted text-2xl">
-          Skills — Coming Next
-        </p>
-      </div>
       <div id="projects" className="h-screen flex items-center justify-center">
         <p className="font-display text-cyber-muted text-2xl">
           Projects — Coming Next
