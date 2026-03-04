@@ -4,6 +4,8 @@ import About from "./components/sections/About";
 import Skills from "./components/sections/Skills";
 import Projects from "./components/sections/Projects";
 import Experience from "./components/sections/Experience";
+import Contact from "./components/sections/Contact";
+
 export default function App() {
   return (
     <main className=" bg-cyber-black min-h-screen">
@@ -13,12 +15,7 @@ export default function App() {
       <Skills />
       <Projects />
       <Experience />
-
-      <div id="contact" className="h-screen flex items-center justify-center">
-        <p className="font-display text-cyber-muted text-2xl">
-          Contact — Coming Next
-        </p>
-      </div>
+      <Contact />
     </main>
   );
 }
