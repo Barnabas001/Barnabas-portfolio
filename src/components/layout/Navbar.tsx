@@ -57,7 +57,7 @@ export default function Navbar() {
 
           {/* Resume Button */}
           <motion.a
-            href="/src/Barnabas_Olayinka_CV_2026.pdf"
+            href="/Barnabas_Olayinka_CV_2026.pdf"
             target="_blank"
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
