@@ -232,7 +232,7 @@ export default function Experience() {
             Want to know more about my journey?
           </p>
           <a
-            href="/src/BARNABAS-OLAYINKA-AFFONSHIKE-CV.pdf"
+            href="/src/Barnabas_Olayinka_CV_2026.pdf"
             target="_blank"
             className="inline-flex items-center gap-2 font-mono text-sm text-cyber-blue border border-cyber-blue px-8 py-3 hover:bg-cyber-blue/10 transition-all duration-300 group"
           >
