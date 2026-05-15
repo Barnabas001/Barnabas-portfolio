@@ -25,7 +25,8 @@ export default function Navbar() {
       >
         <div className="section-container flex items-center justify-between">
           <a
-            href="Barnabas Olayinka Affonshike"
+            href="/Barnabas_Olayinka_CV_2026.pdf"
+            target="_blank"
             className="font-display text-cyber-blue font-bold text-xl tracking-widest hover:white transition-colors"
           >
             {personalInfo.name
