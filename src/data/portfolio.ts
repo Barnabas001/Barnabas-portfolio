@@ -121,15 +121,25 @@ export const skills = {
 
 export const experiences: Experience[] = [
   {
-    company: "Norex Media",
-    role: "In-House Developer",
+    company: "NOREX MEDIA SOLUTIONS ",
+    role: "Frontend & Shopify Developer",
     period: "2025 — 2026",
     description: [
-      "Served as the sole in-house developer, building and maintaining the company’s web presence and internal digital tools ",
-      "Developed responsive web interfaces and client-facing features using React.js, TypeScript, and Tailwind CSS",
-      "Collaborated with the media and design team to translate creative briefs into polished, functional web experiences ",
+      "Served as the in-house developer managing web development, Shopify customization, and digital content operations",
+      "Customized Shopify storefronts and ecommerce experiences using Shopify Liquid and Dawn theme",
+      "Developed responsive user interfaces using React.js, TypeScript, and Tailwind CSS",
+      "Managed AI-assisted SEO content publishing workflows for beauty brands",
+      "Handled social media scheduling and analytics using Metricool",
+      "Collaborated with creative and marketing teams to improve brand visibility and digital operations",
     ],
-    tech: ["React", "Next.js", "TypeScript"],
+    tech: [
+      "React",
+      "TypeScript",
+      "Tailwind CSS",
+      "Shopify",
+      "Shopify Liquid",
+      "Metricool",
+    ],
   },
   {
     company: "DE Technology",
