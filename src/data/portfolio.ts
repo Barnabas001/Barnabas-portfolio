@@ -69,12 +69,54 @@ export const projects: Project[] = [
     featured: true,
     category: "frontend",
   },
+  {
+    id: "5",
+    title: "Luna Lashes & Brows",
+    description:
+      "Modern Shopify beauty store built for a lashes and beauty brand using Shopify Dawn theme.",
+    longDescription:
+      "Luna Lashes & Brows is a Shopify ecommerce store developed for a beauty brand in the lashes and brows industry. The project involved customizing Shopify's Dawn theme to create a clean, premium, and responsive shopping experience inspired by a reference beauty website. Responsibilities included homepage customization, navigation setup, featured product sections, responsive optimization, branding improvements, SEO-friendly content structuring, and Shopify section customization using Liquid.",
+    tech: [
+      "Shopify",
+      "Shopify Liquid",
+      "Dawn Theme",
+      "CSS",
+      "JavaScript",
+      "SEO",
+    ],
+    github: "",
+    live: "",
+    featured: true,
+    category: "shopify",
+  },
 ];
 
 export const skills = {
-  Languages: ["Typescript", "Javscript"],
-  Frontend: ["React", "Next.js", "Tailwind CSS", "Framer Motion"],
-  Tools: ["Git", "Figma", "VS Code"],
+  Languages: ["JavaScript", "TypeScript", "HTML5", "CSS3"],
+
+  Frontend: [
+    "React",
+    "Next.js",
+    "Tailwind CSS",
+    "Framer Motion",
+    "Responsive Web Design",
+  ],
+
+  Shopify: [
+    "Shopify",
+    "Shopify Liquid",
+    "Dawn Theme Customization",
+    "Shopify Store Setup",
+    "Ecommerce UI Customization",
+  ],
+
+  Marketing: [
+    "SEO Content Writing",
+    "AI-Assisted Content Workflows",
+    "Metricool",
+  ],
+
+  Tools: ["Git", "GitHub", "VS Code", "Canva"],
 };
 
 export const experiences: Experience[] = [
